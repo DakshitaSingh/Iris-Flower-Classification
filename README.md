@@ -4,7 +4,8 @@ This project is a simple machine learning web app that predicts the species of a
 
 
 ## 📷 Screenshot
-![App Screenshot](Iris Classifier.png)
+<img width="859" height="694" alt="image" src="https://github.com/user-attachments/assets/9e9fa3fa-c5c9-4ce5-830b-1bc8afab0f59" />
+
 
 
 ## 🚀 Features
